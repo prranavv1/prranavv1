@@ -1,4 +1,4 @@
-## Hi there 👋
+## Student at MIT, manipal. love electricity, doing research projects in the electrical and elctronics field. mainly in power electronics and generation, transmission and distribution of electricity aswell. 
 
 <!--
 **prranavv1/prranavv1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
